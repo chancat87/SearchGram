@@ -3,6 +3,8 @@
 SearchGram is a Telegram bot that improves search experience for Chinese, Japanese, and Korean (CJK) languages and
 provides message backup functionality.
 
+** 👍 Telegram now supports CJK search. ** This project might be archived in the future
+
 # Introduction
 
 Telegram's search function has poor support for CJK languages because there are no spaces to separate words.
